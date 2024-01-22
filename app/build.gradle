@@ -23,7 +23,7 @@ apply plugin: 'kotlin-parcelize'
 
 android {
     compileSdkVersion 34
-    defaultConfig {
+    defaultConfig {s
         applicationId "com.example.android.devbyteviewer"
         minSdkVersion 19
         targetSdkVersion 34
